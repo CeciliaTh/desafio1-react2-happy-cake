@@ -1,5 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Barra from "./Componentes/Barra.jsx";
 import Home from "./views/Home.jsx";
 import Contacto from "./views/Contacto.jsx";

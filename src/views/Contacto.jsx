@@ -16,7 +16,7 @@ const Contacto = () => {
         <Form.Control as="textarea" rows={4} />
         </Form.Group>
         <div className="d-flex justify-content-center">
-        <Button type="submit" variant="danger">Enviar</Button>
+        <Button variant="danger">Enviar</Button>
         </div>
         
     </Form>
